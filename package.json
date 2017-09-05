@@ -1,0 +1,19 @@
+{
+  "name": "hello-batch",
+  "version": "1.0.0",
+  "description": "hello batch",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "testing",
+    "jenkins"
+  ],
+  "author": "",
+  "license": "ISC"
+}
